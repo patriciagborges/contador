@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #0a0d2d;
+    color: #00CED1
+}
+button{
+    height: 40px;
+    width:  40px;  
+ color: #0a0d2d;
+ border: 2px solid #00CED1;
+ border-radius: 50%;
+ align-items: center;
+}
+
+#currentNumber{
+    margin: 0 20px;
+    font-size: 16px;
+}
+
